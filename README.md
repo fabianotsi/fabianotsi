@@ -1,11 +1,14 @@
 ## Olá! Sou o Fabiano Teixeira. 
+</br>
 <div>
-  <img align="center" alt="fab-dev" height="50" width="50" src="https://user-images.githubusercontent.com/67388015/128508112-2c1223e4-1ec1-4c56-88ce-a66a5e70ba8b.png">
+  <img align="right" alt="fab-dev" height="120" width="120" src="https://user-images.githubusercontent.com/67388015/128508112-2c1223e4-1ec1-4c56-88ce-a66a5e70ba8b.png">
 </div>
 - 🔭 Trabalhando atualmente com PL/SQL, Oracle, Postgres, Docker, Jenkins e automação. </br>
 - 🌱 Estudando Ansible, Go, Nest.js, Next.js.
 </br>
 </br>
+
+##
 <div>
   <a href="https://github.com/fabianotsi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianotsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,7 +24,8 @@
   <img align="center" alt="fabiano-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">  
 </div>
   
- ##
+##
+  
  <a href = "mailto:fabianots@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 <!--
