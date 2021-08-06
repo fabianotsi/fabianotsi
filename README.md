@@ -7,8 +7,10 @@
 - 🌱 Estudando Ansible, Go, Nest.js, Next.js.
 </br>
 </br>
+</br>
 
 ##
+
 <div>
   <a href="https://github.com/fabianotsi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabianotsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
