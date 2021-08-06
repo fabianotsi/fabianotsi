@@ -1,5 +1,6 @@
 ## Olá! Sou o Fabiano Teixeira
 </br>
+</br>
 <div>
   <img align="right" alt="fab-dev" height="120" width="120" src="https://user-images.githubusercontent.com/67388015/128508112-2c1223e4-1ec1-4c56-88ce-a66a5e70ba8b.png">
 - 🔭 Trabalhando atualmente com PL/SQL, Oracle, Postgres, Docker, Jenkins e automação. </br>
