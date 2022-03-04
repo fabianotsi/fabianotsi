@@ -4,7 +4,7 @@
 </div>
 </br>
 - 🔭 Trabalhando atualmente com PL/SQL, Oracle, Postgres, Docker, Jenkins e automação. </br>
-- 🌱 Estudando Ansible, Go, Nest.js, Next.js.
+- 🌱 Estudando devops e front-end.
 </br>
 </br>
 
