@@ -16,13 +16,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianotsi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fabiano-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Fabaino-pg" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">  
-  <img align="center" alt="Fabiano-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg  ">
-  <img align="center" alt="Fabiano-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Fabiano-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="fabiano-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="fabiano-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">  
+  <img align="center" alt="Fabiano-Oracle" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Fabiano-oracle-apex" height="60" width="80" src="https://camo.githubusercontent.com/25b2c01a6b92cbb790f82ecb311eecc121425cb51ef42e81a83845c3a8a031dc/68747470733a2f2f6669766572722d7265732e636c6f7564696e6172792e636f6d2f696d616765732f745f6d61696e312c715f6175746f2c665f6175746f2c715f6175746f2c665f6175746f2f676967732f3236373437393638342f6f726967696e616c2f383366306239383337323536316232333463623838393233343064613032376565643938653733632f646576656c6f702d6f7261636c652d6461746162617365732d617065782d6170706c69636174696f6e732d706c73716c2e706e67">
+  <img align="center" alt="Fabiano-pg" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">   
+  <img align="center" alt="Fabiano-Docker" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Fabiano-vscode" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Fabiano-terraform" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Fabiano-ansible" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="Fabiano-nutanix" height="7%" width="7%" src="https://pbs.twimg.com/profile_images/488832076053893121/FIwyFVka_400x400.jpeg">
+  <!--
+  <img align="center" alt="fabiano-Nestjs" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="fabiano-Nextjs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">  
+  -->
 </div>
   
 ##
